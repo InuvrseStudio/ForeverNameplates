@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Forever Nameplates
+## Notes: Adds a threat-colored glow around the stock nameplates.
+## Author: Invurse Studio
+## Version: 1.0
+## SavedVariables: ForeverNameplatesDB
+
+ForeverNameplates.lua
+Options.lua
