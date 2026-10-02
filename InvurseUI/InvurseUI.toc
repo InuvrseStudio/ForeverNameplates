@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: InvurseUI
+## Notes: Subtle tweaks to the stock UI: threat glow nameplates, flat bar textures and custom fonts.
+## Author: Invurse Studio
+## Version: 2.0
+## SavedVariables: InvurseUIDB
+## OptionalDeps: LibSharedMedia-3.0
+
+Core.lua
+Nameplates.lua
+Textures.lua
+Fonts.lua
+Options.lua
